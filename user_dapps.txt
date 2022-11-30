@@ -1,0 +1,6 @@
+Switchboard KanaLabs BlueMove Hippo-Labs Souffl3 Aries liquidSwap AnimeSwap Mojito Topaz Argo HoustonSwap Cetus LayerZero Big_Shark
+N-Sd L-Ks L-Be M-Hs M-S3 N-As N-lp L-Ap N-Mo N-Tz N-Ao N-Hp N-Cs N-Lo YES
+N-Sd N-Ks N-Be N-Hs N-S3 N-As N-lp H-Ap N-Mo N-Tz N-Ao N-Hp N-Cs N-Lo YES
+N-Sd N-Ks M-Be N-Hs L-S3 N-As L-lp H-Ap N-Mo N-Tz N-Ao N-Hp N-Cs N-Lo NO
+N-Sd N-Ks N-Be N-Hs H-S3 N-As L-lp N-Ap N-Mo N-Tz N-Ao N-Hp N-Cs N-Lo YES
+N-Sd N-Ks N-Be N-Hs H-S3 N-As N-lp N-Ap N-Mo N-Tz N-Ao N-Hp L-Cs N-Lo NO
