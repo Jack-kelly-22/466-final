@@ -1,10 +1,18 @@
-Switchboard KanaLabs BlueMove Hippo_Labs Souffl3 Aries liquidSwap AnimeSwap Mojito Topaz Argo HoustonSwap Cetus LayerZero Big_Shark
-SB-HIGH     KL-HIGH  ---------------------------------------------------------------------------------------------------- YES        
-SB-MID      KL-MID   ---------------------------------------------------------------------------------------------------- YES
-SB-LOW      KL-LOW   ---------------------------------------------------------------------------------------------------- NO
-SB-NONE     KL-NONE  ---------------------------------------------------------------------------------------------------- NO
-
-high >= 5
-5 > mid >= 2
-2 > low > 0
-0 = None
+KanaLabs BlueMove Hippo-Labs Souffl3 Aries liquidSwap AnimeSwap Topaz Argo HoustonSwap Cetus Big_Shark
+L-Ks L-Be M-Hs M-S3 N-As N-lp L-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks N-Be N-Hs N-S3 N-As N-lp H-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks M-Be N-Hs L-S3 N-As L-lp H-Ap N-Tz N-Ao N-Hp N-Cs No
+N-Ks N-Be N-Hs H-S3 N-As L-lp N-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks N-Be N-Hs H-S3 N-As N-lp N-Ap N-Tz N-Ao N-Hp L-Cs No
+N-Ks N-Be N-Hs M-S3 N-As L-lp L-Ap N-Tz N-Ao N-Hp N-Cs No
+N-Ks L-Be N-Hs L-S3 N-As N-lp N-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks H-Be N-Hs M-S3 N-As N-lp N-Ap L-Tz N-Ao N-Hp N-Cs No
+N-Ks N-Be N-Hs H-S3 N-As N-lp H-Ap N-Tz N-Ao N-Hp N-Cs No
+N-Ks N-Be N-Hs H-S3 N-As N-lp N-Ap L-Tz N-Ao N-Hp N-Cs No
+N-Ks N-Be L-Hs N-S3 N-As N-lp N-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks N-Be N-Hs L-S3 N-As N-lp N-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks N-Be N-Hs N-S3 N-As H-lp N-Ap N-Tz N-Ao N-Hp N-Cs Yes
+N-Ks N-Be L-Hs N-S3 L-As H-lp H-Ap N-Tz N-Ao N-Hp N-Cs No
+N-Ks N-Be N-Hs L-S3 N-As N-lp N-Ap N-Tz N-Ao N-Hp N-Cs No
+N-Ks M-Be N-Hs N-S3 N-As H-lp N-Ap N-Tz N-Ao N-Hp N-Cs No
+N-Ks L-Be L-Hs N-S3 N-As N-lp L-Ap N-Tz N-Ao N-Hp N-Cs Yes
