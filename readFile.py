@@ -115,8 +115,12 @@ def get_max_val_index(lst):
 
 if __name__ == "__main__":
     print('\nFIRST\n')
+    easy = 'input.txt'
+    hard = 'user_dapps.txt'
 
-    data = read_text('user_dapps.txt')
+
+    
+    data = read_text(hard)
     #Step One
     #---------------------------------
     info = data[0]
