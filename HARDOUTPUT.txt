@@ -1,0 +1,4456 @@
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+==== RESTART: C:\Users\yyaao\OneDrive\Documents\GitHub\466-final\readFile.py ===
+
+FIRST
+
+KanaLabs
+BlueMove
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+MAX INDEX 1
+Entropy List
+[0.004380984249129027, 0.00915209457154842, 0.0026283457495934748, 0.0035812021231771407, 0.006696479238302189, 0.00902409493723666, 0.005620383414015162, 0.00011717984350700927, 0.0014499380860657496, 0.0016446644366621133, 0.002882162379408859]
+KanaLabs
+BlueMove
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 0 BlueMove
+---------------------------------------------------
+
+SECOND
+
+NEW ATTR AFTER STEP 1 ['L-Be', 'N-Be', 'M-Be', 'H-Be']
+['L-Be', 'N-Be', 'M-Be', 'H-Be']
+STEP 2 L-Be
+Entropy List
+0.02772589291741978
+0.02701799598969612
+0.006236865903307742
+0.023058781689030305
+0.038141315831484834
+0.006124736191338909
+0.031028722847757595
+0.01183239291306959
+0.008843219525853985
+0.009846985183719847
+
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 2 liquidSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 2 ['N-lp', 'L-lp', 'M-lp', 'H-lp']
+STEP 3 N-lp
+[0.0, 0.9591910840955131]
+[0.09182958340544896, 0.5333333333333333, 0.16182509907577808, 0.18365916681089792]
+[0.0, 0.25451573411332395, 0.3333333333333333, 0.21634083318910208]
+[0.9591910840955131, 0.0]
+[0.12032134914789372, 0.7157484753735176, 0.06666666666666667, 0.0]
+[0.6988545708156692, 0.12032134914789372, 0.09182958340544896, 0.0]
+[0.9967916319816366]
+[0.9967916319816366]
+[0.8629637918069356, 0.06666666666666667, 0.06666666666666667]
+Entropy List
+FINAL STEP [0.03760054788612344, 0.026144449356178323, 0.19260173134587721, 0.03760054788612344, 0.09405514079355859, 0.08578612861262469, 0.0, 0.0, 0.0004945068413676479]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['M-S3', 'L-S3', 'N-S3', 'H-S3']
+STEP 4 M-S3 31
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 L-lp
+[0.7368552025982358, 0.0, 0.0, 0.0]
+[0.6043777897485187, 0.0845246826546182, 0.0, 0.05622219392170344]
+[0.0795945822426556, 0.4532577768882454, 0.16432588838416182, 0.12330293836666156]
+[0.7861473556555357, 0.0, 0.0]
+[0.7199109519832642, 0.08163265306122448, 0.0, 0.0]
+[0.7426417326785031, 0.0845246826546182, 0.0]
+[0.7773584360705548, 0.04081632653061224, 0.0]
+[0.863120568566631]
+[0.6536725862868259, 0.14074687657632165, 0.0, 0.0]
+Entropy List
+FINAL STEP [0.12626536596839522, 0.11799590224179057, 0.042639382684906524, 0.07697321291109527, 0.06157696352214237, 0.0359541532335097, 0.044945805965463936, 0.0, 0.06870110570348342]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 KanaLabs
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-Ks', 'M-Ks', 'H-Ks', 'L-Ks']
+STEP 4 N-Ks 50
+INDEXXXXXX [0.13795720867755368]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863, 0.09510182423590419]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863, 0.09510182423590419, 0.0721253179741973]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863, 0.09510182423590419, 0.0721253179741973, 0.028391312130134017]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863, 0.09510182423590419, 0.0721253179741973, 0.028391312130134017, 0.010240163618354003]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863, 0.09510182423590419, 0.0721253179741973, 0.028391312130134017, 0.010240163618354003, 0.0]
+INDEXXXXXX [0.13795720867755368, 0.05592806902896863, 0.09510182423590419, 0.0721253179741973, 0.028391312130134017, 0.010240163618354003, 0.0, 0.010362393884939314]
+Entropy List
+LAST STEP [0.13795720867755368, 0.05592806902896863, 0.09510182423590419, 0.0721253179741973, 0.028391312130134017, 0.010240163618354003, 0.0, 0.010362393884939314]
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Hippo-Labs
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-Hs', 'L-Hs', 'H-Hs', 'M-Hs']
+STEP 5 N-Hs
+Entropy List
+ZZ STEP [0.04607626791161101, 0.06293295557044332, 0.09295548241080043, 0.02716835138591045, 0.0, 0.0, 0.010986346065217312]
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 AnimeSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Ap', 'H-Ap', 'M-Ap', 'L-Ap']
+STEP 6 N-Ap
+Entropy List
+QQ STEP [0.04633198273652861, 0.07198897753746081, 0.03045435279559483, 0.0, 0.0, 0.016164257173739927]
+Souffl3
+Aries
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Aries
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-As', 'L-As']
+STEP 7 N-As
+Entropy List
+PP STEP [0.04280708383814269, 0.024890716080092856, 0.0, 0.0, 0.017994300852659295]
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['M-S3', 'N-S3', 'L-S3', 'H-S3']
+STEP 8 M-S3
+Entropy List
+UU STEP [0.3219280948873623, 0.0, 0.0, 0.0]
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Tz', 'L-Tz', 'M-Tz']
+STEP 8 N-Tz
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Argo
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 N-S3
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Topaz
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-As
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Ap
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Souffl3
+Aries
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 L-Hs
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 M-Ks 7
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Hippo-Labs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 M-lp
+[0.06451612903225806, 0.8694046823999303]
+[0.4792799296182285, 0.15660493458946267, 0.24630554914192643, 0.0]
+[0.17773467755893346, 0.25806451612903225, 0.19489819290214247, 0.28428738684861055]
+[0.835921353160372, 0.0]
+[0.8730748939144154, 0.0]
+[0.7328041195033379, 0.0, 0.12581079128677822]
+[0.0, 0.6220713714562671, 0.12581079128677822, 0.0]
+[0.9383153522334069]
+[0.7468639563131217, 0.06451612903225806, 0.0, 0.0]
+Entropy List
+FINAL STEP [0.004394540801218483, 0.05612493888378922, 0.02333057879468814, 0.10239399907303492, 0.0652404583189915, 0.0797004414432908, 0.1904331894903616, 0.0, 0.12693526688802703]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Argo
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['M-Ao', 'N-Ao', 'L-Ao', 'H-Ao']
+STEP 4 M-Ao 32
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 H-lp
+[0.9867867202680318]
+[0.18639451222269626, 0.0, 0.7027027027027027, 0.0]
+[0.3177952724274009, 0.46901129098778715, 0.13120953979117145, 0.0]
+[0.862722370412095, 0.0, 0.0, 0.0]
+[0.8003819792206917, 0.13120953979117145, 0.05405405405405406]
+[0.13120953979117145, 0.8428016461820994]
+[0.8981677242150766, 0.0, 0.0, 0.0]
+[0.9642902203831352, 0.0]
+[0.08770574318477112, 0.8865674859118801]
+Entropy List
+FINAL STEP [0.0, 0.09768950534263277, 0.06877061706167231, 0.12406434985593684, 0.0011411472021146674, 0.01277553429476097, 0.0886189960529552, 0.02249649988489666, 0.012513491171380675]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Aries
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-As', 'L-As', 'M-As', 'H-As']
+STEP 4 N-As 38
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.07670657043810003]
+INDEXXXXXX [0.0, 0.07670657043810003, 0.08755375368332685]
+INDEXXXXXX [0.0, 0.07670657043810003, 0.08755375368332685, 0.0022370609145272446]
+INDEXXXXXX [0.0, 0.07670657043810003, 0.08755375368332685, 0.0022370609145272446, 0.022362663339287936]
+INDEXXXXXX [0.0, 0.07670657043810003, 0.08755375368332685, 0.0022370609145272446, 0.022362663339287936, 0.022335357469995154]
+INDEXXXXXX [0.0, 0.07670657043810003, 0.08755375368332685, 0.0022370609145272446, 0.022362663339287936, 0.022335357469995154, 0.022335357469995154]
+INDEXXXXXX [0.0, 0.07670657043810003, 0.08755375368332685, 0.0022370609145272446, 0.022362663339287936, 0.022335357469995154, 0.022335357469995154, 0.009108626018819344]
+Entropy List
+LAST STEP [0.0, 0.07670657043810003, 0.08755375368332685, 0.0022370609145272446, 0.022362663339287936, 0.022335357469995154, 0.022335357469995154, 0.009108626018819344]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['L-S3', 'N-S3', 'H-S3', 'M-S3']
+STEP 5 L-S3
+Entropy List
+ZZ STEP [0.0, 0.06825262692761935, 0.13477989200573104, 0.1051955320700465, 0.062977946005487, 0.0, 0.062977946005487]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 AnimeSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Ap', 'L-Ap']
+STEP 6 N-Ap
+Entropy List
+QQ STEP [0.0, 0.14556045156746533, 0.07278022578373267, 0.10218717094933338, 0.0, 0.10218717094933338]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-Hs', 'N-Hs', 'H-Hs']
+STEP 7 L-Hs
+Entropy List
+PP STEP [0.0, 0.2516291673878229, 0.2516291673878229, 0.0, 0.2516291673878229]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['L-Tz', 'N-Tz']
+STEP 8 L-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 1.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['L-Cs', 'N-Cs']
+STEP 8 L-Cs
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 N-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 N-Hs
+Entropy List
+PP STEP [0.0, 0.17095059445466854, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Tz', 'L-Tz']
+STEP 8 N-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-Hs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 L-Ap
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 N-S3
+Entropy List
+ZZ STEP [0.0, 0.1893403456380549, 0.050325833477564585, 0.0, 0.0, 0.04069560596190047, 0.0]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['L-Hs', 'M-Hs', 'N-Hs', 'H-Hs']
+STEP 6 L-Hs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-S3
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.17095059445466854, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Topaz
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Tz', 'L-Tz']
+STEP 6 N-Tz
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 M-S3
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 L-As 3
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 2 N-Be
+Entropy List
+0.004933711480411107
+0.002464120311144624
+0.0037378308252203896
+0.007167927898134585
+0.006037296169926654
+0.005183588657153626
+0.0006316710335487752
+0.00292570383432067
+0.000556448916812724
+0.0035023343506103144
+
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 2 Aries
+---------------------------------------------------
+NEW ATTR AFTER STEP 2 ['N-As', 'L-As', 'H-As', 'M-As']
+STEP 3 N-As
+[0.8162582901518313, 0.0020473895885403984, 0.009433359293201608, 0.002277375693650985]
+[0.6128423238580458, 0.09453386050062157, 0.07410220967974374, 0.05145852500923172]
+[0.4540340222038042, 0.09618111802096936, 0.06922082018348996, 0.21120834640228242]
+[0.09723471344330901, 0.20597922503529828, 0.3364227783049882, 0.18964800903822443]
+[0.02469713986415404, 0.7301798333729861, 0.05291201548808778, 0.023651878602013985]
+[0.6747818116661537, 0.10867413350595545, 0.02572926250461586, 0.02484592609440178]
+[0.7894410803188143, 0.027123478785391675, 0.01252712244779569, 0.0030501368177518282]
+[0.831283617163854, 0.003476198740900276, 0.0]
+[0.765329576481432, 0.023656713402626442, 0.017075912751638406, 0.024507785857126346]
+Entropy List
+FINAL STEP [0.005085616762513623, 0.002165112442095052, 0.004457724679191921, 0.005817305667918049, 0.0036611641624960667, 0.0010708977186112412, 0.0029602131199845116, 0.00034221558498359617, 0.004532042996914787]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 liquidSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-lp', 'L-lp', 'H-lp', 'M-lp']
+STEP 4 N-lp 1586
+INDEXXXXXX [0.009930044135550542]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515, 0.011557968200305302]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515, 0.011557968200305302, 0.012049741697848781]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515, 0.011557968200305302, 0.012049741697848781, 0.0058523672152343]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515, 0.011557968200305302, 0.012049741697848781, 0.0058523672152343, 0.03154949940181784]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515, 0.011557968200305302, 0.012049741697848781, 0.0058523672152343, 0.03154949940181784, 0.012971254918166197]
+INDEXXXXXX [0.009930044135550542, 0.011503151047403515, 0.011557968200305302, 0.012049741697848781, 0.0058523672152343, 0.03154949940181784, 0.012971254918166197, 0.026738671344250897]
+Entropy List
+LAST STEP [0.009930044135550542, 0.011503151047403515, 0.011557968200305302, 0.012049741697848781, 0.0058523672152343, 0.03154949940181784, 0.012971254918166197, 0.026738671344250897]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Argo
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-Ao', 'L-Ao', 'H-Ao', 'M-Ao']
+STEP 5 N-Ao
+Entropy List
+ZZ STEP [0.010019228953479065, 0.005620187602194848, 0.010073061658971039, 0.027865262794993906, 0.006137121921266253, 0.013787531186249757, 0.024630884568348055]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 AnimeSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['H-Ap', 'N-Ap', 'L-Ap', 'M-Ap']
+STEP 6 H-Ap
+Entropy List
+QQ STEP [0.0, 0.2516291673878229, 0.07278022578373278, 0.0, 0.0, 0.06991005367674297]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Hs', 'L-Hs', 'M-Hs', 'H-Hs']
+STEP 7 N-Hs
+Entropy List
+PP STEP [0.0, 0.31127812445913283, 0.31127812445913283, 0.0, 0.12255624891826566]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-S3', 'H-S3', 'L-S3']
+STEP 8 N-S3
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-Hs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 N-Ap
+Entropy List
+QQ STEP [0.02336653679829792, 0.012886249625366109, 0.007391077250692324, 0.006378734767889305, 0.01683166327534369, 0.025480422853542573]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Cetus
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-Cs', 'N-Cs', 'H-Cs', 'M-Cs']
+STEP 7 L-Cs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 L-Ap
+Entropy List
+QQ STEP [0.0, 0.11134785288180327, 0.11134785288180327, 0.18905266854301628, 0.0, 0.013137356385803212]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Topaz
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Tz', 'L-Tz', 'M-Tz']
+STEP 7 N-Tz
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Ap
+Entropy List
+QQ STEP [0.31976006206417584, 0.15665661491300698, 0.14556045156746533, 0.22478750958935978, 0.0, 0.22943684069673964]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Ks', 'L-Ks']
+STEP 7 N-Ks
+Entropy List
+PP STEP [0.5774062828523453, 0.39953306887569795, 0.0760098536627829, 0.0, 0.11381878316141225]
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Hs', 'H-Hs', 'L-Hs']
+STEP 8 N-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-Ks
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 5 L-Ao
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 L-lp 4
+INDEXXXXXX [0.01312992290810333]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986, 0.004960302644297476]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986, 0.004960302644297476, 0.015495979155362827]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986, 0.004960302644297476, 0.015495979155362827, 0.00374147389209023]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986, 0.004960302644297476, 0.015495979155362827, 0.00374147389209023, 0.003942505362681259]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986, 0.004960302644297476, 0.015495979155362827, 0.00374147389209023, 0.003942505362681259, 0.0009475408153100107]
+INDEXXXXXX [0.01312992290810333, 0.010046724355270986, 0.004960302644297476, 0.015495979155362827, 0.00374147389209023, 0.003942505362681259, 0.0009475408153100107, 0.005981352219611602]
+Entropy List
+LAST STEP [0.01312992290810333, 0.010046724355270986, 0.004960302644297476, 0.015495979155362827, 0.00374147389209023, 0.003942505362681259, 0.0009475408153100107, 0.005981352219611602]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 AnimeSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-Ap', 'L-Ap', 'H-Ap', 'M-Ap']
+STEP 5 N-Ap
+Entropy List
+ZZ STEP [0.008747994975825901, 0.012775960856434398, 0.00901803212177088, 0.0029523696470094007, 0.0005213911989605524, 0.0009483775237576486, 0.0070774664454748]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Hs', 'H-Hs', 'L-Hs', 'M-Hs']
+STEP 6 N-Hs
+Entropy List
+QQ STEP [0.009459992058109434, 0.01521671038375949, 0.003747568273771651, 0.005064351540519985, 0.0, 0.002718373316612843]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['H-S3', 'L-S3', 'N-S3', 'M-S3']
+STEP 7 H-S3
+Entropy List
+PP STEP [0.0, 0.04801009735157036, 0.0, 0.0, 0.034011083392300745]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Tz', 'L-Tz', 'M-Tz', 'H-Tz']
+STEP 8 N-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.02870720988735531]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Cs', 'M-Cs']
+STEP 8 N-Cs
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.14269027946047563]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Cs', 'H-Cs']
+STEP 8 N-Cs
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-S3
+Entropy List
+PP STEP [0.004026944065306237, 0.019674777937025212, 0.012280723905402136, 0.0, 0.012280723905402136]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['L-Tz', 'N-Tz', 'M-Tz', 'H-Tz']
+STEP 8 L-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.018504352849746497]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Cs', 'M-Cs']
+STEP 8 N-Cs
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 N-Tz
+Entropy List
+UU STEP [0.0048667223924036, 0.014977707111755056, 0.0, 0.009857136463639615]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ao', 'H-Ao', 'L-Ao']
+STEP 8 N-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.011440146328509426]
+KanaLabs
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Cs', 'L-Cs']
+STEP 9 N-Cs
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 H-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 N-S3
+Entropy List
+PP STEP [0.015476826817648837, 0.0, 0.0031571895040033437, 0.0, 0.018289219126677247]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Cs', 'M-Cs', 'L-Cs', 'H-Cs']
+STEP 8 N-Cs
+Entropy List
+UU STEP [0.001495108807494483, 0.0, 0.0029998222518806683, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ao', 'H-Ao', 'L-Ao']
+STEP 8 N-Ao
+Entropy List
+MM STEP [0.0015322595899127656, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Ks', 'H-Ks']
+STEP 9 N-Ks
+Entropy List
+KK STEP [0.0, 0.0]
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 Topaz
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 H-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Cs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 M-S3
+Entropy List
+PP STEP [0.0, 0.12538589358219027, 0.0, 0.0, 0.008744463239055533]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Tz', 'M-Tz', 'L-Tz', 'H-Tz']
+STEP 8 N-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Hs
+Entropy List
+QQ STEP [0.0, 0.19704399805002348, 0.08880563947945663, 0.19087450462110944, 0.0, 0.2566929551213333]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Cetus
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['H-Cs', 'N-Cs', 'M-Cs']
+STEP 7 H-Cs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 L-Hs
+Entropy List
+QQ STEP [0.015214642596313, 0.035962621152981544, 0.07328249988620883, 0.0017472849936123191, 0.0, 0.06488132041760808]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Topaz
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Tz', 'H-Tz', 'M-Tz', 'L-Tz']
+STEP 7 N-Tz
+Entropy List
+PP STEP [0.021262780280861815, 0.04771108935389945, 0.0008469924827512187, 0.0, 0.06735561443768634]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Cs', 'H-Cs', 'L-Cs', 'M-Cs']
+STEP 8 N-Cs
+Entropy List
+UU STEP [0.0, 0.06900045483451489, 1.1102230246251565e-16, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['L-S3', 'N-S3']
+STEP 8 L-S3
+Entropy List
+MM STEP [0.0, 0.17095059445466854, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Ao', 'L-Ao']
+STEP 9 N-Ao
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 N-S3
+Entropy List
+MM STEP [0.0, 0.056047626963330655, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Ao', 'L-Ao']
+STEP 9 N-Ao
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 H-Cs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-Tz
+Entropy List
+PP STEP [0.0, 1.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['H-S3', 'M-S3']
+STEP 8 H-S3
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 M-Tz
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Hs
+Entropy List
+QQ STEP [0.0, 0.18985946360663242, 0.11539917030499114, 0.03513588810847357, 0.03513588810847357, 0.11168753696471323]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-S3', 'H-S3', 'M-S3', 'L-S3']
+STEP 7 N-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.04417739186726144, 0.04417739186726144, 0.18905266854301628]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Cs', 'H-Cs']
+STEP 8 N-Cs
+Entropy List
+UU STEP [0.0, 0.0, 0.034144039029604056, 0.034144039029604056]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ao', 'L-Ao']
+STEP 8 N-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.04306839587828004]
+KanaLabs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 HoustonSwap
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Hp', 'M-Hp']
+STEP 9 N-Hp
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+Topaz
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 H-Cs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 5 L-Ap
+Entropy List
+ZZ STEP [0.0, 0.09032068037765051, 0.061817811757245655, 0.04695179097028257, 0.0339951582261534, 0.0, 0.06062407338396347]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Hs', 'H-Hs', 'L-Hs', 'M-Hs']
+STEP 6 N-Hs
+Entropy List
+QQ STEP [0.0, 0.1190124095310846, 0.1861381990467904, 0.1179805181500242, 0.0, 0.05632607578088]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Topaz
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Tz', 'H-Tz', 'L-Tz']
+STEP 7 N-Tz
+Entropy List
+PP STEP [0.0, 0.20420439844521443, 0.1453406303332636, 0.0, 0.06062407338396347]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['M-S3', 'N-S3', 'L-S3']
+STEP 8 M-S3
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-Tz
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Hs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-Ap
+Entropy List
+ZZ STEP [0.0, 0.0059777114237739015, 0.0, 0.0, 0.3059584928680418, 0.0, 0.0760098536627829]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Argo
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Ao', 'H-Ao']
+STEP 6 N-Ao
+Entropy List
+QQ STEP [0.0, 0.19087450462110933, 0.0, 0.0, 0.0, 0.048415675908885514]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['H-Hs', 'N-Hs']
+STEP 7 H-Hs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.2516291673878229]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Cs', 'M-Cs']
+STEP 8 N-Cs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 N-Hs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Ao
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 M-Ap
+Entropy List
+ZZ STEP [0.4199730940219749, 0.4199730940219749, 0.17095059445466854, 0.17095059445466854, 0.17095059445466854, 0.0, 0.3219280948873623]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Ks', 'M-Ks', 'L-Ks']
+STEP 6 N-Ks
+Entropy List
+QQ STEP [0.9182958340544896, 0.9182958340544896, 0.0, 0.0, 0.0, 0.2516291673878229]
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-Hs', 'N-Hs']
+STEP 7 L-Hs
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Ks
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Hippo-Labs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 4 H-lp 2
+INDEXXXXXX [0.002354218454727608]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785, 0.0029852648483120747]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785, 0.0029852648483120747, 0.003875180350665808]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785, 0.0029852648483120747, 0.003875180350665808, 0.004388527971377898]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785, 0.0029852648483120747, 0.003875180350665808, 0.004388527971377898, 9.18313786424374e-06]
+INDEXXXXXX [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785, 0.0029852648483120747, 0.003875180350665808, 0.004388527971377898, 9.18313786424374e-06, 0.006890149757290409]
+Entropy List
+LAST STEP [0.002354218454727608, 0.0017311359213952882, 0.0007101062775268785, 0.0029852648483120747, 0.003875180350665808, 0.004388527971377898, 9.18313786424374e-06, 0.006890149757290409]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Cetus
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-Cs', 'M-Cs', 'H-Cs', 'L-Cs']
+STEP 5 N-Cs
+Entropy List
+ZZ STEP [0.001370442143410533, 0.0015310101548426935, 0.0005034062024518171, 0.006786790312763968, 0.0053171595499841295, 0.0030433831239201625, 1.0052585390663005e-05]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 AnimeSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Ap', 'L-Ap', 'H-Ap', 'M-Ap']
+STEP 6 N-Ap
+Entropy List
+QQ STEP [0.0014958507833339185, 0.001619231503635521, 0.00014457812578072549, 0.005599827150064796, 0.0015037807311234497, 9.791096451261527e-05]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Topaz
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Tz', 'L-Tz', 'M-Tz', 'H-Tz']
+STEP 7 N-Tz
+Entropy List
+PP STEP [0.0019940815701406933, 0.002998207725916302, 0.0015601717670582493, 0.0018585082612515569, 0.0007800304750545939]
+KanaLabs
+Hippo-Labs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Hs', 'H-Hs', 'L-Hs', 'M-Hs']
+STEP 8 N-Hs
+Entropy List
+UU STEP [0.0, 0.005032480168090325, 0.012677588426075026, 0.0010450598736402306]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ao', 'L-Ao', 'M-Ao', 'H-Ao']
+STEP 8 N-Ao
+Entropy List
+MM STEP [0.0, 0.0051028849549988875, 0.001042195709471283]
+KanaLabs
+Souffl3
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-S3', 'L-S3', 'M-S3', 'H-S3']
+STEP 9 N-S3
+Entropy List
+KK STEP [0.0, 0.0017070096820748226]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 HoustonSwap
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 10 ['N-Hp', 'M-Hp']
+STEP 9 N-Hp
+Entropy List
+YY STEP [0.0]
+KanaLabs
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 11 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 11 == 0
+STOP HERE!!!! 
+
+STEP 9 L-S3
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 H-Hs
+Entropy List
+UU STEP [0.011265929268169272, 0.023585019365253257, 0.04418475449131887, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ao', 'L-Ao', 'H-Ao']
+STEP 8 N-Ao
+Entropy List
+MM STEP [0.011406626394532937, 0.023535027395983787, 0.0]
+KanaLabs
+Souffl3
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['L-S3', 'N-S3', 'M-S3', 'H-S3']
+STEP 9 L-S3
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ao
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Hs
+Entropy List
+UU STEP [0.0, 0.10694791013467753, 0.009003861898918664, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['H-S3', 'L-S3', 'N-S3', 'M-S3']
+STEP 8 H-S3
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Hs
+Entropy List
+UU STEP [0.014915984730997645, 0.1868036263708457, 0.03790772970635903, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-S3', 'M-S3', 'H-S3', 'L-S3']
+STEP 8 N-S3
+Entropy List
+MM STEP [0.0, 0.16970016821052347, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Ao', 'L-Ao']
+STEP 9 N-Ao
+Entropy List
+KK STEP [0.0, 0.0]
+KanaLabs
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 M-S3
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 7 L-Tz
+Entropy List
+PP STEP [0.029340330001952464, 0.03905213232814131, 0.03892377449953255, 0.008352281300699538, 0.008352281300699538]
+KanaLabs
+Hippo-Labs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Hs', 'L-Hs', 'M-Hs']
+STEP 8 N-Hs
+Entropy List
+UU STEP [0.0, 0.08386527957172085, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['H-S3', 'L-S3', 'M-S3']
+STEP 8 H-S3
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Hs
+Entropy List
+UU STEP [0.0, 0.05604762696333082, 0.025850761940059974, 0.025850761940059974]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['M-S3', 'L-S3', 'H-S3']
+STEP 8 M-S3
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Hs
+Entropy List
+UU STEP [0.17095059445466854, 0.17095059445466854, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ks', 'L-Ks']
+STEP 8 N-Ks
+Entropy List
+MM STEP [0.31127812445913283, 0.0, 0.0]
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['L-S3', 'M-S3']
+STEP 9 L-S3
+Entropy List
+KK STEP [0.0, 0.0]
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 Argo
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ks
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 7 M-Tz
+Entropy List
+PP STEP [0.0, 0.39214722366453464, 0.23354983631601556, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Hs', 'L-Hs', 'M-Hs', 'H-Hs']
+STEP 8 N-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-Tz
+Entropy List
+PP STEP [0.0, 0.14269027946047563, 0.14269027946047563, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['M-Hs', 'H-Hs', 'L-Hs', 'N-Hs']
+STEP 8 M-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 6 L-Ap
+Entropy List
+QQ STEP [0.0, 0.07883776477918514, 0.2778589468783782, 0.12808527889139454, 0.12808527889139454, 0.03972865604586273]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-S3', 'H-S3', 'L-S3', 'M-S3']
+STEP 7 N-S3
+Entropy List
+PP STEP [0.0, 0.039035952556318865, 0.0, 0.10803154614559995, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Ao', 'L-Ao']
+STEP 8 N-Ao
+Entropy List
+UU STEP [0.0, 0.018310781820059074, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['L-Hs', 'N-Hs', 'H-Hs']
+STEP 8 L-Hs
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ao
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Ap
+Entropy List
+QQ STEP [0.0, 0.0920935045038912, 0.06405289091925426, 0.019361497772590663, 0.2373974097831018, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Argo
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Ao', 'L-Ao']
+STEP 7 N-Ao
+Entropy List
+PP STEP [0.0, 0.14339080881725613, 0.03637309922189941, 0.01094461229224647, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['L-Hs', 'N-Hs', 'M-Hs']
+STEP 8 L-Hs
+Entropy List
+UU STEP [0.0, 0.12255624891826566, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['L-S3', 'N-S3']
+STEP 8 L-S3
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 N-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-Ao
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Ap
+Entropy List
+QQ STEP [0.0, 0.0, 0.1431558784658321, 0.13792538097002982, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-S3', 'L-S3', 'M-S3']
+STEP 7 N-S3
+Entropy List
+PP STEP [0.0, 0.17095059445466854, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['H-Hs', 'M-Hs', 'L-Hs']
+STEP 8 H-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-S3
+Entropy List
+PP STEP [0.0, 1.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['M-Hs', 'N-Hs']
+STEP 8 M-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 M-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 5 M-Cs
+Entropy List
+ZZ STEP [0.10218717094933338, 0.22478750958935978, 0.22478750958935978, 0.22478750958935978, 0.22478750958935978, 0.0025652873671375698, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Hs', 'M-Hs']
+STEP 6 N-Hs
+Entropy List
+QQ STEP [0.19811742113040354, 0.46956521111470706, 0.2916919971380598, 0.46956521111470706, 0.12808527889139454, 0.0]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['M-S3', 'N-S3']
+STEP 7 M-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Hs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-Cs
+Entropy List
+ZZ STEP [0.1444867598454651, 0.1497614407675978, 0.19432734946514874, 0.0, 0.062977946005487, 0.1444867598454651, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-S3', 'M-S3', 'L-S3']
+STEP 6 N-S3
+Entropy List
+QQ STEP [0.19715972342414934, 0.17884894160409037, 0.0, 0.0, 0.19715972342414934, 0.0]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-Ks', 'L-Ks']
+STEP 7 N-Ks
+Entropy List
+PP STEP [0.0737613082228673, 0.0, 0.0, 0.0, 0.0]
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['H-Hs', 'N-Hs']
+STEP 8 H-Hs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 AnimeSwap
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-Ks
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Hippo-Labs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-S3
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 L-Cs
+Entropy List
+ZZ STEP [0.015866384928091115, 0.05872142245368084, 0.08849000193830625, 0.12560899477506132, 0.09415974283007433, 0.19481123301038117, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Argo
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['L-Ao', 'N-Ao']
+STEP 6 L-Ao
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 4 M-lp 18
+INDEXXXXXX [0.011443788263324484]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685, 0.007248785530083124]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685, 0.007248785530083124, 0.0032298118021745204]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685, 0.007248785530083124, 0.0032298118021745204, 0.002653081023795467]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685, 0.007248785530083124, 0.0032298118021745204, 0.002653081023795467, 0.0]
+INDEXXXXXX [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685, 0.007248785530083124, 0.0032298118021745204, 0.002653081023795467, 0.0, 0.002511756545327204]
+Entropy List
+LAST STEP [0.011443788263324484, 0.01520978111728144, 0.0072041617423773685, 0.007248785530083124, 0.0032298118021745204, 0.002653081023795467, 0.0, 0.002511756545327204]
+KanaLabs
+Hippo-Labs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Hippo-Labs
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['M-Hs', 'N-Hs', 'L-Hs', 'H-Hs']
+STEP 5 M-Hs
+Entropy List
+ZZ STEP [0.0, 0.09919157612680796, 0.06132091398730599, 0.010969310349085326, 0.09312466716509837, 0.0, 0.0]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['H-S3', 'N-S3', 'L-S3']
+STEP 6 H-S3
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 N-Hs
+Entropy List
+ZZ STEP [0.0066520848871614024, 0.009534111338915352, 0.013918500708219428, 0.004256900850365342, 0.004255910499210036, 0.0, 0.004767564355112497]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 AnimeSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Ap', 'H-Ap', 'M-Ap', 'L-Ap']
+STEP 6 N-Ap
+Entropy List
+QQ STEP [0.008157819649148634, 0.013515008967589726, 0.007769866759249289, 0.004104080196249749, 0.0, 0.004672040368639885]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['H-S3', 'M-S3', 'L-S3', 'N-S3']
+STEP 7 H-S3
+Entropy List
+PP STEP [0.04948381594846696, 0.0718740440925505, 0.0, 0.0, 0.10226426007466949]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Cs', 'H-Cs']
+STEP 8 N-Cs
+Entropy List
+UU STEP [0.0, 0.110978274208683, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Tz', 'M-Tz', 'L-Tz', 'H-Tz']
+STEP 8 N-Tz
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 H-Cs
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 M-S3
+Entropy List
+PP STEP [0.0, 0.13032064349656136, 0.0, 0.0, 0.02080717509631058]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['L-Tz', 'M-Tz', 'N-Tz']
+STEP 8 L-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.07290559532005603]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Cs', 'L-Cs']
+STEP 8 N-Cs
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 L-S3
+Entropy List
+PP STEP [0.06021331131399521, 0.03650134346203171, 0.004013846510356633, 0.0, 0.01888178961267417]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Ks', 'L-Ks', 'M-Ks']
+STEP 8 N-Ks
+Entropy List
+UU STEP [0.019294722909165563, 0.005444146297490904, 0.0, 0.017715575602862188]
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Tz', 'L-Tz', 'M-Tz', 'H-Tz']
+STEP 8 N-Tz
+Entropy List
+MM STEP [0.009848192231331043, 0.0, 0.012484988908179284]
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Cs', 'H-Cs']
+STEP 9 N-Cs
+Entropy List
+KK STEP [0.009404988506072853, 0.0]
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 10 ['L-Ao', 'N-Ao']
+STEP 9 L-Ao
+Entropy List
+YY STEP [0.0]
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 11 HoustonSwap
+---------------------------------------------------
+MAX ENTROPY STEP 11 == 0
+STOP HERE!!!! 
+
+STEP 9 H-Cs
+Entropy List
+KK STEP [0.0, 0.0]
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 Argo
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Tz
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Argo
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ks
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Topaz
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 N-S3
+Entropy List
+PP STEP [0.005843515181879533, 0.0, 0.008805149207724683, 0.0, 0.005206536891982472]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-Ao', 'M-Ao', 'L-Ao']
+STEP 8 N-Ao
+Entropy List
+UU STEP [0.006149627316010431, 0.0, 0.0, 0.0050172773688414996]
+KanaLabs
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-Ks', 'L-Ks', 'M-Ks']
+STEP 8 N-Ks
+Entropy List
+MM STEP [0.0, 0.0, 0.004886103495636451]
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Cetus
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 9 ['N-Cs', 'L-Cs', 'H-Cs']
+STEP 9 N-Cs
+Entropy List
+KK STEP [0.0, 0.0]
+Topaz
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 10 Topaz
+---------------------------------------------------
+MAX ENTROPY STEP 10 == 0
+STOP HERE!!!! 
+
+STEP 8 L-Ks
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 Topaz
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 M-Ao
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Ap
+Entropy List
+QQ STEP [0.0, 0.12581458369391152, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-S3', 'M-S3', 'N-S3']
+STEP 7 L-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Ap
+Entropy List
+QQ STEP [0.0, 0.07290559532005603, 0.034144039029604056, 0.034144039029604056, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['H-S3', 'N-S3']
+STEP 7 H-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 L-Ap
+Entropy List
+QQ STEP [0.0, 0.17164718114669086, 0.056742367814119454, 0.1339375660949168, 0.0, 0.12013411808852825]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-S3', 'H-S3', 'M-S3', 'L-S3']
+STEP 7 N-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.16775277825854862, 0.0, 0.1520072838056271]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Argo
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['H-Ao', 'L-Ao', 'N-Ao']
+STEP 8 H-Ao
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-S3
+Entropy List
+PP STEP [0.0, 1.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Topaz
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['L-Tz', 'N-Tz']
+STEP 8 L-Tz
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 M-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 5 L-Hs
+Entropy List
+ZZ STEP [0.0339468348651244, 0.037969513012746425, 0.039688074929167705, 0.08649444740872436, 0.06953724347622836, 0.0, 0.007072158516172267]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Topaz
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['L-Tz', 'N-Tz', 'H-Tz', 'M-Tz']
+STEP 6 L-Tz
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-Hs
+Entropy List
+ZZ STEP [0.0, 0.14246495063890124, 0.038814797223301056, 0.05741010723803219, 0.13824095117944724, 0.0, 0.164775024497346]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Cetus
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Cs', 'H-Cs', 'L-Cs', 'M-Cs']
+STEP 6 N-Cs
+Entropy List
+QQ STEP [0.0, 0.28103611255342353, 0.02008994082044896, 0.09233383111607785, 0.19843231803921402, 0.0]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['N-S3', 'L-S3', 'H-S3']
+STEP 7 N-S3
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Cs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 3 L-As
+[0.808596548073635, 0.0]
+[0.1197777174853682, 0.4405020819477003, 0.1197777174853682, 0.17391304347826086]
+[0.4791108699414728, 0.08695652173913043, 0.26268886869419206, 0.0]
+[0.21019421113637599, 0.2998520414017288, 0.1197777174853682, 0.08695652173913043]
+[0.1197777174853682, 0.4708226705787146, 0.0, 0.0]
+[0.7432665832724779, 0.0, 0.0]
+[0.5980730920502246, 0.1197777174853682, 0.08695652173913043]
+[0.808596548073635, 0.0]
+[0.7880666060825761, 0.0, 0.0]
+Entropy List
+FINAL STEP [0.07794434474845491, 0.03257033242539242, 0.057784632447294704, 0.16976040105948664, 0.29594050475800715, 0.14327430954961207, 0.08173356154736666, 0.07794434474845491, 0.09847428673951386]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 AnimeSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['H-Ap', 'N-Ap', 'M-Ap', 'L-Ap']
+STEP 4 H-Ap 24
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.2516291673878229]
+INDEXXXXXX [0.0, 0.2516291673878229, 0.9182958340544896]
+INDEXXXXXX [0.0, 0.2516291673878229, 0.9182958340544896, 0.9182958340544896]
+INDEXXXXXX [0.0, 0.2516291673878229, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896]
+INDEXXXXXX [0.0, 0.2516291673878229, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896]
+INDEXXXXXX [0.0, 0.2516291673878229, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.0]
+INDEXXXXXX [0.0, 0.2516291673878229, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.2516291673878229, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.9182958340544896, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-S3', 'L-S3']
+STEP 5 N-S3
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 N-Ap 3
+INDEXXXXXX [0.16970016821052347]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024, 0.08794309459889993]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024, 0.08794309459889993, 0.26494456340247285]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024, 0.08794309459889993, 0.26494456340247285, 0.07290559532005603]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024, 0.08794309459889993, 0.26494456340247285, 0.07290559532005603, 0.04649156923422182]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024, 0.08794309459889993, 0.26494456340247285, 0.07290559532005603, 0.04649156923422182, 0.16970016821052347]
+INDEXXXXXX [0.16970016821052347, 0.052654760400179024, 0.08794309459889993, 0.26494456340247285, 0.07290559532005603, 0.04649156923422182, 0.16970016821052347, 0.1851301928324337]
+Entropy List
+LAST STEP [0.16970016821052347, 0.052654760400179024, 0.08794309459889993, 0.26494456340247285, 0.07290559532005603, 0.04649156923422182, 0.16970016821052347, 0.1851301928324337]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 liquidSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['L-lp', 'H-lp', 'M-lp', 'N-lp']
+STEP 5 L-lp
+Entropy List
+ZZ STEP [0.3219280948873623, 0.4199730940219749, 0.4199730940219749, 0.0, 0.0, 0.3219280948873623, 0.17095059445466854]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Hs', 'M-Hs', 'H-Hs']
+STEP 6 N-Hs
+Entropy List
+QQ STEP [0.9182958340544896, 0.9182958340544896, 0.0, 0.0, 0.9182958340544896, 0.0]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-Ks', 'N-Ks']
+STEP 7 L-Ks
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Souffl3
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 M-Hs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-lp
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 M-Ap 8
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 H-As
+[0.7793498372920851]
+[0.2496240382951178, 0.0, 0.2496240382951178, 0.21191442324334375]
+[0.360765841222524, 0.0, 0.15384615384615385]
+[0.4647572292281859, 0.21191442324334375, 0.0, 0.0]
+[0.0, 0.7152969463728309, 0.0]
+[0.7488721148853534, 0.0]
+[0.6779160763313021, 0.0, 0.0]
+[0.7793498372920851]
+[0.5290646583521217, 0.21191442324334375, 0.0]
+Entropy List
+FINAL STEP [0.0, 0.06818733745850569, 0.26473784222340724, 0.10267818482055535, 0.06405289091925415, 0.030477722406731633, 0.10143376096078294, 0.0, 0.03837075569661963]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-S3', 'L-S3', 'H-S3']
+STEP 4 N-S3 14
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.19350684337293433]
+INDEXXXXXX [0.0, 0.19350684337293433, 0.10803154614560001]
+INDEXXXXXX [0.0, 0.19350684337293433, 0.10803154614560001, 0.034144039029604]
+INDEXXXXXX [0.0, 0.19350684337293433, 0.10803154614560001, 0.034144039029604, 0.0]
+INDEXXXXXX [0.0, 0.19350684337293433, 0.10803154614560001, 0.034144039029604, 0.0, 0.05482464858165198]
+INDEXXXXXX [0.0, 0.19350684337293433, 0.10803154614560001, 0.034144039029604, 0.0, 0.05482464858165198, 0.0]
+INDEXXXXXX [0.0, 0.19350684337293433, 0.10803154614560001, 0.034144039029604, 0.0, 0.05482464858165198, 0.0, 0.19350684337293433]
+Entropy List
+LAST STEP [0.0, 0.19350684337293433, 0.10803154614560001, 0.034144039029604, 0.0, 0.05482464858165198, 0.0, 0.19350684337293433]
+KanaLabs
+Hippo-Labs
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Hippo-Labs
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['H-Hs', 'M-Hs', 'L-Hs', 'N-Hs']
+STEP 5 H-Hs
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 L-S3 4
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 M-As
+[0.938914161952, 0.0]
+[0.14499407906123518, 0.21052631578947367, 0.28998815812247036, 0.3157894736842105]
+[0.3629787869599874, 0.43498223718370554, 0.0, 0.10526315789473684]
+[0.469457080976, 0.18998107760193744, 0.21052631578947367, 0.0]
+[0.7665399429905279, 0.0, 0.0]
+[0.14499407906123518, 0.8325889754008399]
+[0.681287204058107, 0.25551331433017593, 0.0]
+[0.9133377771867434, 0.0]
+[0.8325889754008399, 0.14499407906123518]
+Entropy List
+FINAL STEP [0.043026624912097744, 0.020642760206707966, 0.07871660482566789, 0.1119763124966866, 0.21540084387356984, 0.0043577324020226404, 0.04514026847581465, 0.06860300967735433, 0.0043577324020226404]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 AnimeSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-Ap', 'L-Ap', 'H-Ap']
+STEP 4 N-Ap 20
+INDEXXXXXX [0.05140433415603374]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927, 0.14385913068355527]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927, 0.14385913068355527, 0.09460079260622489]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927, 0.14385913068355527, 0.09460079260622489, 0.0033964223228484247]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927, 0.14385913068355527, 0.09460079260622489, 0.0033964223228484247, 0.09380720426996791]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927, 0.14385913068355527, 0.09460079260622489, 0.0033964223228484247, 0.09380720426996791, 0.0]
+INDEXXXXXX [0.05140433415603374, 0.013315396014649927, 0.14385913068355527, 0.09460079260622489, 0.0033964223228484247, 0.09380720426996791, 0.0, 0.10798680264773297]
+Entropy List
+LAST STEP [0.05140433415603374, 0.013315396014649927, 0.14385913068355527, 0.09460079260622489, 0.0033964223228484247, 0.09380720426996791, 0.0, 0.10798680264773297]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['L-S3', 'H-S3', 'N-S3', 'M-S3']
+STEP 5 L-S3
+Entropy List
+ZZ STEP [0.12808527889139454, 0.5916727785823276, 0.2916919971380598, 0.02024420715375619, 0.005977711423774124, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Hippo-Labs
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Hs', 'H-Hs', 'M-Hs', 'L-Hs']
+STEP 6 N-Hs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-S3
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 L-Ap 2
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+liquidSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 2 M-Be
+Entropy List
+0.026426546447525956
+0.0024565866215744414
+0.01779896303188866
+0.028372532882147472
+0.16279201728552706
+0.045786377584587146
+0.09486948022452213
+0.015241392068739534
+0.013042254981683099
+0.05524139206873957
+
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 2 liquidSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 2 ['L-lp', 'H-lp', 'N-lp', 'M-lp']
+STEP 3 L-lp
+[0.8960382325345575]
+[0.7235244576783367, 0.125, 0.0]
+[0.25, 0.2588568406297682, 0.1721804688852168, 0.125]
+[0.8960382325345575]
+[0.0, 0.6501414594129401, 0.125, 0.0]
+[0.6332217427998192, 0.1721804688852168]
+[0.7843506955698443, 0.0]
+[0.8609023444260839, 0.0]
+[0.8227502138368021, 0.0, 0.0]
+Entropy List
+FINAL STEP [0.0, 0.04751377485622077, 0.09000092301957252, 0.0, 0.1208967731216174, 0.09063602084952149, 0.11168753696471323, 0.03513588810847357, 0.07328801869775536]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 AnimeSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['H-Ap', 'N-Ap', 'L-Ap', 'M-Ap']
+STEP 4 H-Ap 17
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 H-lp
+[0.6016067457394686, 0.0]
+[0.0, 0.0]
+[0.0, 0.0, 0.3333333333333333]
+[0.6500224216483541]
+[0.6500224216483541]
+[0.6500224216483541]
+[0.6500224216483541]
+[0.6500224216483541]
+[0.6500224216483541]
+Entropy List
+FINAL STEP [0.048415675908885514, 0.6500224216483541, 0.3166890883150208, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Hippo-Labs
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-Hs', 'L-Hs']
+STEP 4 N-Hs 7
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 N-lp
+[0.9366673818775626]
+[0.5469917825204001, 0.0, 0.1620522060096158, 0.11764705882352941]
+[0.23529411764705882, 0.2123317926139301, 0.11764705882352941, 0.3241044120192316]
+[0.810261030048079, 0.11764705882352941]
+[0.0, 0.8567211127541193, 0.0]
+[0.0, 0.5711474085027463, 0.28557370425137313]
+[0.8433301012089953, 0.0]
+[0.9366673818775626]
+[0.8982908262823199, 0.0]
+Entropy List
+FINAL STEP [0.0, 0.10997633452401723, 0.047290000773812624, 0.008759293005954127, 0.07994626912344327, 0.07994626912344316, 0.09333728066856728, 0.0, 0.03837655559524267]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Hippo-Labs
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-Hs', 'M-Hs', 'L-Hs', 'H-Hs']
+STEP 4 N-Hs 18
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.07351230065215808]
+INDEXXXXXX [0.0, 0.07351230065215808, 0.0]
+INDEXXXXXX [0.0, 0.07351230065215808, 0.0, 0.04417739186726144]
+INDEXXXXXX [0.0, 0.07351230065215808, 0.0, 0.04417739186726144, 0.09401798148694518]
+INDEXXXXXX [0.0, 0.07351230065215808, 0.0, 0.04417739186726144, 0.09401798148694518, 0.18905266854301628]
+INDEXXXXXX [0.0, 0.07351230065215808, 0.0, 0.04417739186726144, 0.09401798148694518, 0.18905266854301628, 0.0]
+INDEXXXXXX [0.0, 0.07351230065215808, 0.0, 0.04417739186726144, 0.09401798148694518, 0.18905266854301628, 0.0, 0.04417739186726144]
+Entropy List
+LAST STEP [0.0, 0.07351230065215808, 0.0, 0.04417739186726144, 0.09401798148694518, 0.18905266854301628, 0.0, 0.04417739186726144]
+KanaLabs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Argo
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-Ao', 'L-Ao']
+STEP 5 N-Ao
+Entropy List
+ZZ STEP [0.0, 0.19741684510370916, 0.0, 0.034144039029604056, 0.08547529722733427, 0.0, 0.034144039029604056]
+KanaLabs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Souffl3
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['M-S3', 'H-S3', 'L-S3', 'N-S3']
+STEP 6 M-S3
+Entropy List
+QQ STEP [0.0, 0.0, 1.0, 1.0, 0.0, 0.0]
+KanaLabs
+Aries
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 AnimeSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-Ap', 'N-Ap']
+STEP 7 L-Ap
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Aries
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-S3
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Aries
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 L-Ao
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 M-Hs 2
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 M-lp
+[0.4263596305357102, 0.0]
+[0.39531959505425196, 0.0, 0.0, 0.0]
+[0.0, 0.0, 0.32814913403971013, 0.0]
+[0.411756819361892, 0.0, 0.0]
+[0.411756819361892, 0.0, 0.0]
+[0.4263596305357102, 0.0]
+[0.4263596305357102, 0.0]
+[0.4394969869215134]
+[0.4394969869215134]
+Entropy List
+FINAL STEP [0.013137356385803212, 0.04417739186726144, 0.11134785288180327, 0.027740167559621387, 0.027740167559621387, 0.013137356385803212, 0.013137356385803212, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['H-S3', 'M-S3', 'N-S3', 'L-S3']
+STEP 4 H-S3 12
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Aries
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 2 H-Be
+Entropy List
+0.014657172229178839
+0.06009041025859674
+0.06345378890951925
+0.014657172229178839
+0.03844838703636477
+0.032557232670427205
+0.10806947783168941
+0.014657172229178839
+0.03032373993891646
+0.014662510858254207
+
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Topaz
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 2 Topaz
+---------------------------------------------------
+NEW ATTR AFTER STEP 2 ['L-Tz', 'N-Tz', 'H-Tz', 'M-Tz']
+STEP 3 L-Tz
+[0.7488721148853534, 0.0]
+[0.7152969463728309, 0.0]
+[0.0, 0.27766465187975475, 0.21191442324334375, 0.0]
+[0.7793498372920852]
+[0.5290646583521217, 0.21191442324334375, 0.0]
+[0.7152969463728309, 0.0]
+[0.7793498372920852]
+[0.7793498372920852]
+[0.7793498372920852]
+Entropy List
+FINAL STEP [0.030477722406731744, 0.06405289091925426, 0.2897707621689867, 0.0, 0.03837075569661974, 0.06405289091925426, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['M-S3', 'H-S3', 'L-S3', 'N-S3']
+STEP 4 M-S3 14
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Aries
+liquidSwap
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 N-Tz
+[0.9986359641585718]
+[0.8377461440076386, 0.0, 0.10553810809289875]
+[0.4557747200971755, 0.37724821231626354, 0.08695652173913043, 0.0598888587426841]
+[0.9751222486776879, 0.0]
+[0.31166547218593305, 0.10553810809289875, 0.4754057533150661, 0.0598888587426841]
+[0.9344178905177327, 0.0, 0.0]
+[0.9751222486776879, 0.0]
+[0.9550956598342569, 0.0, 0.0]
+[0.9508115066301323, 0.0, 0.0]
+Entropy List
+FINAL STEP [0.0, 0.055351712058034463, 0.018767651263318252, 0.02351371548088388, 0.04613777182198975, 0.06421807364083909, 0.02351371548088388, 0.04354030432431488, 0.04782445752843956]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 AnimeSwap
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['N-Ap', 'L-Ap', 'M-Ap']
+STEP 4 N-Ap 47
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.05136420921634899]
+INDEXXXXXX [0.0, 0.05136420921634899, 0.012875717425118949]
+INDEXXXXXX [0.0, 0.05136420921634899, 0.012875717425118949, 0.022865650321295505]
+INDEXXXXXX [0.0, 0.05136420921634899, 0.012875717425118949, 0.022865650321295505, 0.05070076952251579]
+INDEXXXXXX [0.0, 0.05136420921634899, 0.012875717425118949, 0.022865650321295505, 0.05070076952251579, 0.022865650321295505]
+INDEXXXXXX [0.0, 0.05136420921634899, 0.012875717425118949, 0.022865650321295505, 0.05070076952251579, 0.022865650321295505, 0.04653066396687178]
+INDEXXXXXX [0.0, 0.05136420921634899, 0.012875717425118949, 0.022865650321295505, 0.05070076952251579, 0.022865650321295505, 0.04653066396687178, 0.04653066396687178]
+Entropy List
+LAST STEP [0.0, 0.05136420921634899, 0.012875717425118949, 0.022865650321295505, 0.05070076952251579, 0.022865650321295505, 0.04653066396687178, 0.04653066396687178]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 Hippo-Labs
+---------------------------------------------------
+NEW ATTR AFTER STEP 4 ['N-Hs', 'H-Hs', 'L-Hs']
+STEP 5 N-Hs
+Entropy List
+ZZ STEP [0.0, 0.021184948401912318, 0.03070905993315709, 0.03299522767075147, 0.03070905993315709, 0.026122825816192186, 0.06277928006343658]
+KanaLabs
+Souffl3
+Aries
+liquidSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 Cetus
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 5 ['N-Cs', 'H-Cs', 'L-Cs']
+STEP 6 N-Cs
+Entropy List
+QQ STEP [0.0, 0.02490723296025621, 0.035539430540037054, 0.041275038877466974, 0.035539430540037054, 0.025198762771061145]
+KanaLabs
+Souffl3
+Aries
+liquidSwap
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 liquidSwap
+---------------------------------------------------
+&************************************************
+NEW ATTR AFTER STEP 6 ['L-lp', 'H-lp', 'N-lp', 'M-lp']
+STEP 7 L-lp
+Entropy List
+PP STEP [0.0, 0.04564807461062881, 0.18905266854301628, 0.18905266854301628, 0.0]
+KanaLabs
+Souffl3
+Aries
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 Aries
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 7 ['N-As', 'L-As']
+STEP 8 N-As
+Entropy List
+UU STEP [0.0, 0.05642589168200307, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 Souffl3
+---------------------------------------------------
+************************************************
+NEW ATTR AFTER STEP 8 ['N-S3', 'L-S3', 'H-S3']
+STEP 8 N-S3
+Entropy List
+MM STEP [0.0, 0.0, 0.0]
+KanaLabs
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 9 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 9 == 0
+STOP HERE!!!! 
+
+STEP 8 L-As
+Entropy List
+UU STEP [0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 8 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 8 == 0
+STOP HERE!!!! 
+
+STEP 7 H-lp
+Entropy List
+PP STEP [0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Aries
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 7 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 7 == 0
+STOP HERE!!!! 
+
+STEP 6 H-Cs
+Entropy List
+QQ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Aries
+liquidSwap
+Argo
+HoustonSwap
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 6 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 6 == 0
+STOP HERE!!!! 
+
+STEP 5 H-Hs
+Entropy List
+ZZ STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Souffl3
+Aries
+liquidSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 5 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 5 == 0
+STOP HERE!!!! 
+
+STEP 4 L-Ap 3
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 H-Tz
+[0.9182958340544896]
+[0.9182958340544896]
+[0.0, 0.0, 0.0]
+[0.9182958340544896]
+[0.6666666666666666, 0.0]
+[0.9182958340544896]
+[0.9182958340544896]
+[0.9182958340544896]
+[0.9182958340544896]
+Entropy List
+FINAL STEP [0.0, 0.0, 0.9182958340544896, 0.0, 0.2516291673878229, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 Souffl3
+---------------------------------------------------
+NEW ATTR AFTER STEP 3 ['L-S3', 'M-S3', 'N-S3']
+STEP 4 L-S3 4
+INDEXXXXXX [0.0]
+INDEXXXXXX [0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INDEXXXXXX [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Entropy List
+LAST STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Aries
+liquidSwap
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 4 KanaLabs
+---------------------------------------------------
+MAX ENTROPY STEP 4 == 0
+STOP HERE!!!! 
+
+STEP 3 M-Tz
+[0.0]
+[0.0, 0.0]
+[0.0, 0.0]
+[0.0]
+[0.0, 0.0, 0.0]
+[0.0, 0.0]
+[0.0]
+[0.0]
+[0.0, 0.0]
+Entropy List
+FINAL STEP [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+KanaLabs
+Hippo-Labs
+Souffl3
+Aries
+liquidSwap
+AnimeSwap
+Argo
+HoustonSwap
+Cetus
+Big_Shark
+
+HIGHEST INFO GAIN LEVEL 3 KanaLabs
+---------------------------------------------------
+MAX ENTROPY == 0
+STOP HERE!!!! 
+

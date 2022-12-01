@@ -115,21 +115,23 @@ def get_max_val_index(lst):
 
 if __name__ == "__main__":
     print('\nFIRST\n')
-    easy = 'input.txt'
+    easy = 'easy.txt'
     hard = 'user_dapps.txt'
-
+    our_easy = 'user_dapps_easy.txt'
 
     
     data = read_text(hard)
     #Step One
     #---------------------------------
     info = data[0]
+    label = info[len(info)-1]
+
     matrix = data[1::]
     print_lst(info)
     parent = twice(get_bigShark(matrix))
     lst_info = []
     for name in info:        
-        if name == 'Big_Shark':
+        if name == label:
             break
         lstAvgs = getChildEntropy(name, info, matrix)
         info_gain = information_gain(parent, lstAvgs)
@@ -162,7 +164,7 @@ if __name__ == "__main__":
         #print_lst(matrix)
 
         for name in info:
-            if name == 'Big_Shark':
+            if name == label:
                 break
             parent = twice(get_bigShark(matrixUsed))
             lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -194,7 +196,7 @@ if __name__ == "__main__":
             info = matrix[0]
             matrixUsed = matrix[1:]
             for name in info:
-                if name == 'Big_Shark':
+                if name == label:
                     break
                 parent = twice(get_bigShark(matrixUsed))
                 lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -226,7 +228,7 @@ if __name__ == "__main__":
                 info = matrix[0]
                 matrixUsed = matrix[1:]
                 for name in info:
-                    if name == 'Big_Shark':
+                    if name == label:
                         break
                     parent = twice(get_bigShark(matrixUsed))
                     lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -257,7 +259,7 @@ if __name__ == "__main__":
                     info = matrix[0]
                     matrixUsed = matrix[1:]
                     for name in info:
-                        if name == 'Big_Shark':
+                        if name == label:
                             break
                         parent = twice(get_bigShark(matrixUsed))
                         lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -290,7 +292,7 @@ if __name__ == "__main__":
                         info = matrix[0]
                         matrixUsed = matrix[1:]
                         for name in info:
-                            if name == 'Big_Shark':
+                            if name == label:
                                 break
                             parent = twice(get_bigShark(matrixUsed))
                             lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -324,7 +326,7 @@ if __name__ == "__main__":
                             info = matrix[0]
                             matrixUsed = matrix[1:]
                             for name in info:
-                                if name == 'Big_Shark':
+                                if name == label:
                                     break
                                 parent = twice(get_bigShark(matrixUsed))
                                 lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -357,7 +359,7 @@ if __name__ == "__main__":
                                 info = matrix[0]
                                 matrixUsed = matrix[1:]
                                 for name in info:
-                                    if name == 'Big_Shark':
+                                    if name == label:
                                         break
                                     parent = twice(get_bigShark(matrixUsed))
                                     lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -392,7 +394,7 @@ if __name__ == "__main__":
                                     info = matrix[0]
                                     matrixUsed = matrix[1:]
                                     for name in info:
-                                        if name == 'Big_Shark':
+                                        if name == label:
                                             break
                                         parent = twice(get_bigShark(matrixUsed))
                                         lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -426,7 +428,7 @@ if __name__ == "__main__":
                                         info = matrix[0]
                                         matrixUsed = matrix[1:]
                                         for name in info:
-                                            if name == 'Big_Shark':
+                                            if name == label:
                                                 break
                                             parent = twice(get_bigShark(matrixUsed))
                                             lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -458,7 +460,7 @@ if __name__ == "__main__":
                                             info = matrix[0]
                                             matrixUsed = matrix[1:]
                                             for name in info:
-                                                if name == 'Big_Shark':
+                                                if name == label:
                                                     break
                                                 parent = twice(get_bigShark(matrixUsed))
                                                 lstAvgs = getChildEntropy(name, info, matrixUsed)
@@ -493,7 +495,7 @@ if __name__ == "__main__":
                                                 info = matrix[0]
                                                 matrixUsed = matrix[1:]
                                                 for name in info:
-                                                    if name == 'Big_Shark':
+                                                    if name == label:
                                                         break
                                                     parent = twice(get_bigShark(matrixUsed))
                                                     lstAvgs = getChildEntropy(name, info, matrixUsed)
