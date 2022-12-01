@@ -1,4 +1,5 @@
 import math
+import numpy as np
 
 def get_index(name, lst):
     for x in range(len(lst)):
@@ -58,7 +59,6 @@ def information_gain(parent, lstAvgs):
 
 def getChildEntropy(lstName, info, matrix):
     index = get_index(lstName, info)
-    #print(lstName)
     AvgList = []
     variableNames = []
 
@@ -66,19 +66,14 @@ def getChildEntropy(lstName, info, matrix):
         if values[index] not in variableNames:
             variableNames.append(values[index])
     
-    for name in variableNames:
-        AvgList.append(calcAvg(name, matrix))
+    for names in variableNames:
+        AvgList.append(calcAvg(names, matrix))
             
     return AvgList
 
 
 def get_partial_matrix(attribute, matrix):
-    new_matrix = []
-    for row in range(len(matrix)):
-        for col in range(len(matrix[row])):
-            if matrix[row][col] == attribute:
-                index = col
-                
+    new_matrix = []    
     new_matrix.append(matrix[0])
 
     for values in matrix[1::]:
@@ -95,57 +90,113 @@ def get_unique_attr(matrix, info, name):
             lst.append(value[index])
     return lst
 
+
+def delete_row(aboveName, matrix):
+    new_matrix = np.array(matrix)
+    index = matrix[0].index(aboveName)
+    res = np.delete(new_matrix, index, 1)
+    return res.tolist()
+
+def print_lst(lst):
+    for x in lst:
+        print(x)
+    print('')
+
+def get_max_val_index(lst):
+    start = lst[0]
+    index = 0
+    for i in range(len(lst)):
+        if lst[i] > start:
+            index = i
+            start = lst[i]
+            
+    return index
+
+
 if __name__ == "__main__":
-    data = read_text('testinput.txt')
+    print('\nFIRST\n')
+
+    data = read_text('input.txt')
     #Step One
     #---------------------------------
     info = data[0]
-    base_matrix = data[1:]
     matrix = data[1::]
     parent = twice(get_bigShark(matrix))
     lst_info = []
-    for name in info:
-        if name == 'Big_Shark':
+    for name in info:        
+        if name == 'PlayTennis':
             break
         lstAvgs = getChildEntropy(name, info, matrix)
         info_gain = information_gain(parent, lstAvgs)
         lst_info.append(info_gain)
-    print(len(lst_info), lst_info)
+    print('MAX INDEX', get_max_val_index(lst_info))
 
+    index = get_max_val_index(lst_info)
+    aboveName = info[index]
+    print("Entropy List")
+    print_lst(lst_info)
+    print_lst(info)
+    print('HIGHEST INFO GAIN LEVEL 0', aboveName)
+    print('---------------------------------------------------')
     #-----------------------------------------
     #Step 2
+    print('\nSECOND\n')
 
     steps = []
-    new_attr = get_unique_attr(base_matrix, info, "BlueMove")
+    new_attr = get_unique_attr(matrix, info, aboveName)
+    print(new_attr)
     for attr in new_attr:
+        print("STEP 2", attr)
         lst_info = []
-        matrix = get_partial_matrix(attr, data)
+        test = get_partial_matrix(attr, data)
+        matrix = delete_row(aboveName, test)
         info = matrix[0]
-        matrix = matrix[1:]
+        matrixUsed = matrix[1:]
+        #print_lst(matrix)
+
         for name in info:
-            if name == 'Big_Shark':
+            if name == 'PlayTennis':
                 break
-            parent = twice(get_bigShark(matrix))
-            lstAvgs = getChildEntropy(name, info, matrix)
+            parent = twice(get_bigShark(matrixUsed))
+            lstAvgs = getChildEntropy(name, info, matrixUsed)
             info_gain = information_gain(parent, lstAvgs)
             lst_info.append(info_gain)
         steps.append(lst_info)
-    print(len(steps), steps)
+        index = get_max_val_index(lst_info)
+        aboveName = info[index]
+        #------------------------------------------
+        #Step 3
+        print("Entropy List")
+        print_lst(lst_info)
+        print_lst(info)
+        print('HIGHEST INFO GAIN LEVEL 2', aboveName)
+        print('---------------------------------------------------')
 
+        new_attr = get_unique_attr(matrix[1:], matrix[0], aboveName)
+        final_step = []
+        base_matrix = matrix
+        for name in new_attr:
+            print('STEP 3', name)
+            lst_info = []
+            #print_lst(matrix)
+            test = get_partial_matrix(name, base_matrix.copy())
+            matrix = delete_row(aboveName, test)
 
-    steps = []
-    new_attr = get_unique_attr(base_matrix, info, "Souffl3")
-    for attr in new_attr:
-        lst_info = []
-        matrix = get_partial_matrix(attr, data)
-        info = matrix[0]
-        matrix = matrix[1:]
-        for name in info:
-            if name == 'Big_Shark':
-                break
-            parent = twice(get_bigShark(matrix))
-            lstAvgs = getChildEntropy(name, info, matrix)
-            info_gain = information_gain(parent, lstAvgs)
-            lst_info.append(info_gain)
-        steps.append(lst_info)
-    print(len(steps), steps)
+            info = matrix[0]
+
+            matrixUsed = matrix[1:]
+            for name in info:
+                if name == 'PlayTennis':
+                    break
+                parent = twice(get_bigShark(matrixUsed))
+                lstAvgs = getChildEntropy(name, info, matrixUsed)
+                info_gain = information_gain(parent, lstAvgs)
+                final_step.append(info_gain)
+            index = get_max_val_index(final_step)
+            aboveName = info[index]
+            print("Entropy List")
+            print_lst(final_step)
+            print_lst(info)
+            print('HIGHEST INFO GAIN LEVEL 3', aboveName)
+            print('---------------------------------------------------')
+        #------------------------------------------------
