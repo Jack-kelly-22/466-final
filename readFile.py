@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
     steps = []
     new_attr = get_unique_attr(matrix, info, aboveName)
-    print("NEW ATTR AFTER STEP 2", new_attr)
+    print("NEW ATTR AFTER STEP 1", new_attr)
 
     print(new_attr)
     for attr in new_attr:
@@ -177,6 +177,8 @@ if __name__ == "__main__":
 
         new_attr = get_unique_attr(matrix[1:], matrix[0], aboveName2)
         base_matrix = matrix
+        print("NEW ATTR AFTER STEP 2", new_attr)
+
         for name in new_attr:
             final_step = []
 
@@ -205,7 +207,6 @@ if __name__ == "__main__":
             if max(final_step) == 0:
                 print('MAX ENTROPY == 0')
                 print('STOP HERE!!!! \n')
-                break
             new_attr = get_unique_attr(matrix[1:], matrix[0], aboveName3)
             print_lst(matrix)
             print("NEW ATTR AFTER STEP 3", new_attr)
@@ -216,7 +217,7 @@ if __name__ == "__main__":
                 lst_info = []
                 test = get_partial_matrix(name, base_matrix2.copy())
                 matrix = delete_row(aboveName3, test)
-                print_lst(matrix)
+                #print_lst(matrix)
                 info = matrix[0]
                 matrixUsed = matrix[1:]
                 for name in info:
@@ -236,6 +237,33 @@ if __name__ == "__main__":
                 if max(last_step) == 0:
                     print('MAX ENTROPY STEP 4 == 0')
                     print('STOP HERE!!!! \n')
-                    break
-
+                new_attr = get_unique_attr(matrix[1:], matrix[0], aboveName4)
+                print("NEW ATTR AFTER STEP 4", new_attr)
+                zz_step = []
+                base_matrix3 = matrix
+                for name in new_attr:
+                    print('STEP 5', name)
+                    lst_info = []
+                    test = get_partial_matrix(name, base_matrix3.copy())
+                    matrix = delete_row(aboveName4, test)
+                    print_lst(matrix)
+                    info = matrix[0]
+                    matrixUsed = matrix[1:]
+                    for name in info:
+                        if name == 'Big_Shark':
+                            break
+                        parent = twice(get_bigShark(matrixUsed))
+                        lstAvgs = getChildEntropy(name, info, matrixUsed)
+                        info_gain = information_gain(parent, lstAvgs)
+                        zz_step.append(info_gain)
+                        index = get_max_val_index(zz_step)
+                        aboveName5 = info[index]
+                    print("Entropy List")
+                    print('ZZ STEP', zz_step)
+                    print_lst(info)
+                    print('HIGHEST INFO GAIN LEVEL 5', aboveName5)
+                    print('---------------------------------------------------')
+                    if max(zz_step) == 0:
+                        print('MAX ENTROPY STEP 5 == 0')
+                        print('STOP HERE!!!! \n')
         #------------------------------------------------
