@@ -120,7 +120,7 @@ if __name__ == "__main__":
     our_easy = 'user_dapps_easy.txt'
 
     
-    data = read_text(hard)
+    data = read_text(easy)
     #Step One
     #---------------------------------
     info = data[0]
