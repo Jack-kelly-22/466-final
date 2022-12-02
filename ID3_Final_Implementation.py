@@ -150,12 +150,14 @@ def ID3_algo(matrix, aboveName, label, level):
 if __name__ == "__main__":
     print('\nFIRST\n')
     easy_dapps = 'user_dapps_easy.txt'
-    testinput = 'testinput.txt'
-    easy = 'input_2.txt'
+    testinput = 'input.txt'
+    easy = 'easy.txt'
     #If you want to run the data on hard, you might want not print the matrix.
     hard = 'user_dapps.txt'
-
-    data = read_text(hard)
+    data = read_text(easy)
+    #Our data is in the hard text file.
+    #I have it on easy as that is easily more understandable.
+    
 
     #Step One
     #---------------------------------
